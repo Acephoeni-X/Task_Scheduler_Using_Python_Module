@@ -35,5 +35,5 @@ A program which shows how can we use a Python Module "Schedule " to schedule eve
 [Webbrowser!](https://docs.python.org/3/library/webbrowser.html?highlight=webbrowser)
 
 
-## If you like this content rate it pls!
+## If you like this content pls rate it!
 [Ask me anything on LinkedIn !](https://www.linkedin.com/in/rishi-sharma-5602ba199/)
