@@ -2,6 +2,7 @@ import schedule
 import webbrowser
 import time
 import subprocess
+import os
 
 def monlecture_1():
     print("\n\n1st Lecture")
@@ -111,7 +112,7 @@ schedule.every().saturday.at("13:59").do(satlecture_3)
 
 if __name__ == "__main__":
 
-    subprocess.call("cls", shell = True)
+    os.system("cls")
     print("\t\t$$$$$$$$$	$$$$$$$$$$$		$$$$$$$$$ ")
     print("\t\t$$$$$$$$$	$$$$$$$$$$$		$$$$$$$$$ ")
     print("\t\t$$		$$			$	  ")
