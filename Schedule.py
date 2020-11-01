@@ -3,6 +3,11 @@ import webbrowser
 import time
 import subprocess
 import os
+from bs4 import BeautifulSoup
+
+
+url = "https://www.google.com/"
+url_2 = "https://shivi-portfolio.herokuapp.com/"
 
 def monlecture_1():
     print("\n\n1st Lecture")
@@ -127,3 +132,4 @@ if __name__ == "__main__":
     while True:
         schedule.run_pending()
         time.sleep(10)
+    #Thanks for cloning this repo, do give it a * if you like this.
